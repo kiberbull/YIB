@@ -6,4 +6,4 @@
 
 [Практическая работа №3](https://github.com/kiberbull/YIB/tree/main/прз_3)
 
-[Практическая работа №4](https://github.com/kiberbull/YIB/blob/main/прз_4/README.md
+[Практическая работа №4](https://github.com/kiberbull/YIB/tree/main/прз_4)
