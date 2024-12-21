@@ -9,3 +9,5 @@
 [Практическая работа №4](https://github.com/kiberbull/YIB/tree/main/прз_4)
 
 [Практическая работа №5](https://github.com/kiberbull/YIB/tree/main/прз_5)
+
+[Практическая работа №6](https://github.com/kiberbull/YIB/tree/main/прз_6)
